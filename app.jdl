@@ -1,5 +1,12 @@
 /**
  * Gateway - store
+ * 
+ * Change log https://www.jhipster.tech/jdl/
+ * 1. packageName com.dreams.demo.store
+ * 2. databaseType sql devDatabaseType h2Disk prodDatabaseType mysql # default
+ * 3. enableHibernateCache true
+ * 4. buildTool maven
+ * 5. clientFramework angularX
  */ 
 application {
   config {
