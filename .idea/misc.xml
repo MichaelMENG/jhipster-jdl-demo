@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/invoice" />
+    <file type="web" url="file://$PROJECT_DIR$/notification" />
+    <file type="web" url="file://$PROJECT_DIR$/store" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/store/pom.xml" />
+        <option value="$PROJECT_DIR$/invoice/pom.xml" />
+        <option value="$PROJECT_DIR$/notification/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8.0_161" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/spring-boot/BusFloatingData" value="PREVIEW" />
+        <entry key="$USER_HOME$/streaming/BusFloatingData" value="PREVIEW" />
+        <entry key="$USER_HOME$/streaming/Spark-Structured-Streaming-Examples" value="PREVIEW" />
+        <entry key="$USER_HOME$/streaming/dreamstep-aia/up2running" value="PREVIEW" />
+        <entry key="$USER_HOME$/streaming/ds/floating-data" value="PREVIEW" />
+        <entry key="$USER_HOME$/streaming/ds/structuredstreaming" value="PREVIEW" />
+        <entry key="$USER_HOME$/streaming/high-performance-spark-examples" value="PREVIEW" />
+        <entry key="$USER_HOME$/streaming/internet/multi-prj-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/streaming/internet/sbt-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/streaming/internet/tiger" value="PREVIEW" />
+        <entry key="$USER_HOME$/streaming/learning-akka/book" value="PREVIEW" />
+        <entry key="$USER_HOME$/streaming/learning-akka/ch1" value="PREVIEW" />
+        <entry key="$USER_HOME$/streaming/ok" value="PREVIEW" />
+        <entry key="$USER_HOME$/tb/squbs" value="PREVIEW" />
+        <entry key="$USER_HOME$/tb/squbs-scala" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+</project>
